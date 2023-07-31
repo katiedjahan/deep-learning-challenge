@@ -4,7 +4,7 @@ Module 21 Challenge
 This repository consists of four Jupyter Notebooks, a written analysis, and an Images folder. The purpose of this homework assignment is to create a neural network model that can predict whether an organization will be successful if funded by Alphabet Soup.
 
 ## Jupyter Notebooks
-<i>Each of these was written and run in Google Colab.</i>
+<i>Each of these notebooks was written and run in Google Colab.</i>
 ### AlphabetSoupCharity.ipynb
 - This file contains the code to run the original neural network model.
 ### AlphabetSoupCharity_Optimization1.ipynb
